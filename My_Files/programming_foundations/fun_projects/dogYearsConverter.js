@@ -1,7 +1,7 @@
 // My age
 myAge = 24;
 
-// this value is flexible
+// this value is to take into account that the first 2 years of a dogs life in human years is equivilant to 10.5 dog years.
 let earlyYears = 2;
 
 earlyYears *= 10.5;
